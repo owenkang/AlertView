@@ -199,7 +199,7 @@
                 [_tempView removeFromSuperview];
                 
             }
-            self.okBlock();
+            self.okBlock();    /////
         }
     }
 }
