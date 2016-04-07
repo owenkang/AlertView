@@ -63,5 +63,5 @@ pod 'KZWAlertView'
 
 ###Manual Installation
 
-将KZWAlertView文件夹拖拽到你的工程
+将KzwAlertView文件夹拖拽到你的工程
 
